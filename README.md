@@ -24,3 +24,5 @@ To work with the dataset for this project, you need to do the following:
 
 # Videos
 1. Video entrega 02: https://youtu.be/XPOkMa7idOw
+2. Video entrega FINAL: https://www.youtube.com/watch?v=1pxUsxw6VKQ
+
